@@ -1,7 +1,7 @@
 # (Analyze A/B Results)
 ## by (Abdullah alnoamany)
 
-Udacity Data Analyst Nanodegree  July 2020. Project 3: Analyze A/B Results
+Udacity Data Analyst Nanodegree  July 2020. Project 3: Analyze A/B Test Results
 
 
 
